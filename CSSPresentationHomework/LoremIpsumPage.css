@@ -1,0 +1,15 @@
+﻿body {
+    font-family: Consolas;
+    font-size: 25px;
+    color: #0094ff;
+    margin-top: 2em;
+}
+
+body p:first-line {
+    font-weight: bolder;
+}
+
+body p:first-letter {
+    font-family: Edwardian Script ITC;
+    font-size: 2.2em;
+}

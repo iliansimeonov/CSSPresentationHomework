@@ -1,0 +1,10 @@
+﻿body{
+    zoom: 3;
+}
+
+.firsttwenty {
+    width: 90%;
+    background: #000;
+    border-radius: 100px;
+    border: 1px solid #ff0000;
+}
